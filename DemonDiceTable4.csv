@@ -1,0 +1,34 @@
+2-Reduce [ÐÐ]. A Guardian (players’ choice) diverts its next turn to destroying demons. It moves 30’ directly closer to its guarded Horseman regardless of how many opportunity attacks that draws.,-1,,
+"3-An industrious colony of Demonic Ants has locked together the boots of the PC with the Biggest Boots. Move is reduced to 10’ until broken, Strength (DC [ÐÐ])",,,
+4-Advance [ÐÐ] -A cloud of eye-bats blinds the PC with the Highest Passive Perception. Take (BigÐ) damage and your Perception checks are at disadvantage until you heal the damage.,1,,
+5-A wave of the noxious gas drifts across the cavern. All PCs are sickened for 1 round. Constitution Save (DC [ÐÐ]) to avoid the affect.,,,
+6-A group of demons completes a Lava incantation. A random 3×3 area turns molten for the rest of the combat. Adjacent creatures take [ÐÐ] fire damage. Dexterity save (DC 14) for half.,,5,
+7-A group of Glimmersneaks descends to steal the most magical-looking small item in the party. Strength Save (DC [ÐÐ]) each round until the PC wins or gives up. The PC can not take other actions.,,,
+8-A group of demons completes a demon summoning. Add a summoned demon to the battle field.,,8,Fight
+9-Advance [ÐÐ] - The PC who has killed the most demons is mobbed by tiny Vengeance Demons. Take lilÐ damage.,1,,
+"10-(Once) A slab crashes down amidst the melee. Drop a ~10’x15’ boulder feature randomly near the PCs. It kills many demons, reduce a Demon Die. Any combatants under the stone take 10d6 damage, Dex Save (DC 13) to jump aside, prone. The top of the boulder is flat and 10’ above the floor. It takes 30’ of movement to scramble up.",-1,10,Once
+11-Advance [ÐÐ] - A ragtag fugitive fleet of cylonids rains hell-slime upon the PC with the most current hit points. Take lilÐ fire damage.,1,,
+12-A Guardian (players’ choice) diverts its next turn to destroying demons. It moves 30’ directly closer to its guarded Horseman regardless of how many opportunity attacks that draws.,,,
+13-Advance [ÐÐ] - The PC who has the largest number of spell slots remaining is targeted by Leechlings. Take lilÐ psychic damage. Wisdom Save (DC BigÐ) or lose a spell slot.,1,,
+14-(Once)Demon casters induce a fissure right through the battle. Draw the most disruptive 40’ chasm possible. Characters near the fissure can choose which side to be on.,,16,
+15-A Guardian (players’ choice) diverts its next turn to destroying demons. It moves 30’ directly closer to its guarded Horseman regardless of how many opportunity attacks that draws.,,,
+16-Advance [ÐÐ] - Rot-sprites burrow into the skin of the PC with the lowest Constitution. Take lilÐ necrotic damage.,1,,
+"17-The demons gather so thickly that one character may use an attack action next turn to destroy scores - if a character does this, Reduce [ÐÐ], otherwise Advance [ÐÐ]",-1,,
+"18-A demon gets a critical fail and immolates in a 20ft radius blast at a random location. Everyone in the area takes [ÐÐ] damage, Dexterity Save for half (DC BigÐ)",1,5,
+"19-Advance [ÐÐ] - A burly, 6-legged demonic ox, the size of a piranha, shouts “Dibs on his bones” and tears into the ankles of the PC with the highest Strength. Take lilÐ bludgeoning damage.",,,
+"20-From now on Advance [ÐÐ] on every roll even when not stated, except when Reduce [ÐÐ] is stated.",1,,Accelerate
+21-,,,
+22-,,24,Fight
+23-,,5,Once
+24- The demons have reached a fever pitch. The sound itself is crushing.,,,
+25-You spot a cluster of imps that are up to something. One character can attempt to disrupt the demonic plan in dramatic fashion if they can cause just 3pts of damage with a ranged attack or spell (40’ minimum range). Success reduces both Demon Dice by one if the player can creatively explain what just happened.,-1,,Once
+26-Read the next entry from the Demons Winning list,,,End
+"27-**The massed demons, in their chaotic fervor, foolishly destroy one of the Guardians (players’ choice)",,-10,Once
+28-Running out of time. Read the next result on the Ending Table,,,End
+"29-*With a throbbing scream a ritual sacrifice is completed. Christgau the Obscene swaggers forward and starts to dance, 2d8 squares from the “target” in a random direction.",,32,Fight
+"30-If double 15 is rolled. A divine blast of energy rolls across the cavern, killing all of the demons present and resetting the Demon Dice to 2d4. Otherwise, all characters take damage equal to the larger of the two dice.",,20,Once
+31-Running out of time. Read the next result on the Ending Table,,,End
+32-All characters have their Action Dice reduced for their next round.,,,Once
+"33-*A ray of Demonic Madness crosses the cavern, the adventurers go mad unless they succeed at a Will Save, DC equal to a Roll of the Demon Dice. Each round affected adventurers can attempt another save against that round’s roll. Until they save, alternate between gibbering, racing around, and attacking randomly.",,10,Once
+34-*The swarms of flying and stinging demons are now so thick that all character’s action dice are re-duced one step until the end of the fight.,,,Once
+35+ Running out of time. Read the next result on the Ending Table,,,End
